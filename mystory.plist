@@ -19,13 +19,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.aruistar.cmcapp</string>
+                <string>com.youwei.mystory</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>cmcapp</string>
+                <string>MyStory</string>
             </dict>
         </dict>
     </array>
