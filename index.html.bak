@@ -76,7 +76,7 @@
 					<p class=" fun-text">Have some fun with mindcraft</p>
 					<a href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/lvtiegang/lvtiegang.github.io/master/mystory.plist" class="btn craft-btn">
 						<span class="fa fa-apple"></span>
-						<div class="craft-btn-content" >
+						<div class="craft-btn-content" onclick="javascrtpt:window.location.href='https://www.hao123.com/'">
 							<h6>Download for</h6>
 							<h4>Apple iOS</h4>
 						</div>
