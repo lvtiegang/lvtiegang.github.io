@@ -49,10 +49,8 @@
 		<a href="javascript:void(0)" class="closebtn" onClick="closeNav()">&times;</a><br>
 		<a href="#head">Home</a><hr>
 		<a href="#explore">Explore</a><hr>
-		<a href="#mindcraft-action">Action</a><hr>
 		<a href="#testimonial-section">Testimonial</a><hr>
-		<a href="#user-interface">User-interface</a><hr>
-		<a href="#newsletter">Newsletter</a>              
+		<a href="#user-interface">Contact</a><hr>          
 	</div>
 <!-- Head section taking full device height -->
 <section id="head" class="head">
@@ -72,11 +70,11 @@
 			</div> -->
 			<div class="row head-body">
 				<div class="col-md-7 col-xs-12 head-items">
-					<h1>MINDCRAFT TEMPETE</h1>
-					<p class=" fun-text">Have some fun with mindcraft</p>
+					<h1>MyStory</h1>
+					<p class=" fun-text">Have some fun with us</p>
 					<a href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/lvtiegang/lvtiegang.github.io/master/mystory.plist" class="btn craft-btn">
 						<span class="fa fa-apple"></span>
-						<div class="craft-btn-content" onclick="javascrtpt:window.location.href='https://www.hao123.com/'">
+						<div class="craft-btn-content" >
 							<h6>Download for</h6>
 							<h4>Apple iOS</h4>
 						</div>
@@ -99,66 +97,24 @@
 	</div>
 </section>
 
-<!-- This is the feature section after the head-->
-<section class="section feature-section">
-	<div class="container">
-		<div class="row">
-		<!-- Individual block is an individual section one feature -->
-			<div class="col-md-3 col-xs-6 feature-block">
-				<div class="icon-circle"> <!-- Only the icon and the circle  -->
-					<i class="fa fa-download"></i>
-				</div>
-				<!-- <i class="fa fa-download fa-2x icon"></i> -->
-				<h3>EASY SETUP</h3>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et.
-				</p>
-			</div>
-			<div class="col-md-3 col-xs-6 feature-block">
-			<div class="icon-circle"> <!-- Only the icon and the circle  -->	
-				<i class="fa fa-mobile"></i>
-				</div>
-				<h3>ON THE GO</h3>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et.
-				</p>
-			</div>
-			<div class="col-md-3 col-xs-6 feature-block">
-				<div class="icon-circle"> <!-- Only the icon and the circle  -->
-					<i class="ion-person-stalker"></i>
-				</div>
-				<h3>SOCIAL CONNECT</h3>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et.
-				</p>
-			</div>
-			<div class="col-md-3 col-xs-6 feature-block">
-				<div class="icon-circle"> <!-- Only the icon and the circle  -->
-					<i class="ion-coffee"></i>
-				</div>
-				<h3>DEDICATED SUPPORT</h3>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et.
-				</p>
-			</div>
-		</div>
-	</div>
-</section>
+
 <!-- This is explore mind craft section -->
 <section id="explore" class="section explore-mindcraft">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-3 col-xs-6 zoom-act">
-				<img class="img-responsive" src="assets/img/girl.png">
+				<img class="img-responsive" src="assets/ar1.gif">
 			</div>
 			<div class="col-md-3 col-xs-6 zoom-act">
 				<img class="img-responsive" src="assets/img/jhon.png">
 			</div>
 			<div class="col-md-6 col-xs-12 explore">
-					<h2>EXPLORE MINDCRAFT</h2>
+					<h2>MyStory</h2>
 					<p>
-					Complimenten, bewonderend gefluit en lonkende blikken zijn enkele risico’s die The Garment Club met zichlaimun.human rights momentum. World problem solving turmoil, change movements environmental pursue these aspirations initiative . rights momentum. World problem solving turmoil, change movements environmental pursue these aspirations initiative donation. Policy dialogue, underprivileged accessibility, asylum visionary, prevention beneficiaries carbon emissions reductions empower.
-					</p>
+					Mystory is one social APP with excellent customer experience based on AR and 3D Avatar technology.
+					The user can generate virtual world by scanning the real one to customise, 
+					as well as users’ appearance to meet others. 
+					Of course, all Mystory users can communicate to each other by  textual and voice.					</p>
 					<a href="#" class="btn craft-btn">
 						<span class="fa fa-apple"></span>
 						<div class="craft-btn-content">
@@ -177,23 +133,7 @@
 		</div>
 	</div>
 </section>
-<!-- Midcraft in action with the video frame -->
-<section id="mindcraft-action" class="mindcraft-action section">
-	<div class="container">
-		<h2>MINDCRAFT IN ACTION</h2>
-		<div>
-			
-			<h3>SHARE THIS WITH YOUR FRIENDS</h3>
-			<div class="social">
-				<ul>
-					<li><a href="#" class="fa fa-pinterest fa-2x" aria-hidden="true"></a></li>
-					<li><a href="#" class="fa fa-twitter fa-2x" aria-hidden="true"></a></li>
-					<li><a href="#" class="fa fa-linkedin fa-2x" aria-hidden="true"></a></li> 
-				</ul>
-			</div>
-		</div>
-	</div>
-</section>
+
 <!-- Testimonial section -->
 <section id="testimonial-section" class="testimonial">
 	<div class="blur">
@@ -202,7 +142,7 @@
 			<div class="carousel">
 				<div class="carousel-view">
 				<p class=" fun-text">“I love mindcraft ! I highly recommend it”</p>
-				<h5>ERIC CLAPTION</h5>
+				<h5>Create Stories</h5>
 				<ul>
 					<li><i class="fa fa-star"></i></li>
 					<li><i class="fa fa-star"></i></li>
@@ -216,7 +156,7 @@
 			<div class="carousel">
 				<div class="carousel-view">
 				<p class=" fun-text">“I love mindcraft ! I highly recommend it”</p>
-				<h5>ERIC CLAPTION</h5>
+				<h5>Create World</h5>
 				<ul>
 					<li><i class="fa fa-star"></i></li>
 					<li><i class="fa fa-star"></i></li>
@@ -225,12 +165,12 @@
 					<li><i class="fa fa-star-o"></i></li>
 				</ul>	
 			</div>
-			<img class="img-responsive" src="assets/img/mr.png">
+			<img class="img-responsive" src="assets/img/triple.png">
 			</div>
 			<div class="carousel">
 				<div class="carousel-view">
 				<p class=" fun-text">“I love mindcraft ! I highly recommend it”</p>
-				<h5>ERIC CLAPTION</h5>
+				<h5>Create Avatar</h5>
 				<ul>
 					<li><i class="fa fa-star"></i></li>
 					<li><i class="fa fa-star"></i></li>
@@ -247,7 +187,7 @@
 <!-- Section for the simple user interface -->
 <section id="user-interface" class="section user-interface">
 	<div class="container">
-		<h2>SIMPLEST USER INTERFACE</h2>
+		<h2>Contact</h2>
 		<div class="row">
 			<div class="col-md-6 col-xs-12">
 				<img class="img-responsive" src="assets/img/triple.png">
@@ -258,8 +198,8 @@
 							<img class="img-responsive" src="assets/icon/My place.png">
 						</div>
 						<div class="col-md-8 col-xs-6 para-zom">
-							<h4>MY PLACES</h4>
-							<p>Loren ipsum dolar sit</p>
+							<h4>Tel</h4>
+							<p>+8618000000000</p>
 						</div>
 				</div>
 				<div class="row interface-block">
@@ -267,8 +207,8 @@
 							<img class="img-responsive" src="assets/icon/film.png">
 						</div>
 						<div class="col-md-8 col-xs-6 para-zom">
-							<h4>MY PLACES</h4>
-							<p>Loren ipsum dolar sit</p>
+							<h4>Email</h4>
+							<p>zhaopenggang@163.com</p>
 						</div>
 				</div>
 				<div class="row interface-block">
@@ -276,8 +216,10 @@
 							<img class="img-responsive" src="assets/icon/graph chart increasing.png">
 						</div>
 						<div class="col-md-8 col-xs-6 para-zom">
-							<h4>MY PLACES</h4>
-							<p>Loren ipsum dolar sit</p>
+							<h4>Document</h4>
+							<a href="private.html">
+							<p>Privacy Policy</p>
+							</a>
 						</div>
 				</div>
 				<div class="row interface-block">
@@ -285,52 +227,16 @@
 							<img class="img-responsive" src="assets/icon/weather partly cloudy day.png">
 						</div>
 						<div class="col-md-8 col-xs-6 para-zom">
-							<h4>MY PLACES</h4>
-							<p>Loren ipsum dolar sit</p>
+							<h4>Company</h4>
+							<p>Changchun YouWei TLD</p>
 						</div>
 				</div>
 			</div>
 		</div>
 	</div>
 </section>
-<!-- This is the newsletter section -->
-<section id="newsletter" class="newsletter">
-	<div class="blur">
-		<div class="container">
-			<h2>SIGN UP OUR NEWSLETTER</h2>
-			<div class="row newsletter-form">
-				<form class="form-inline">
-					<div class="form-group">
-					   <input type="email" class="form-control" id="email" placeholder="Enter your email here">
-					   <button type="submit" class="btn btn-default">SEND ME</button>
-					</div>
-				</form>
-			</div>
-		</div>
-	</div>
-</section>
-<!-- Footer section -->
-<section class="footer">
-	<div class="container">
-			<div class="row">
-				<div class="col-md-3 col-xs-3">
-					<img class="img-responsive" src="assets/icon/red-logo.png">
-				</div>
-				<div class="col-md-6 col-xs-6 footer-icon">
-					<div class="social footer-social">
-							<ul>
-								<li><a href="#" class="fa fa-pinterest fa-2x" aria-hidden="true"></a></li>
-								<li><a href="#" class="fa fa-twitter fa-2x" aria-hidden="true"></a></li>
-								<li><a href="#" class="fa fa-linkedin fa-2x" aria-hidden="true"></a></li> 
-							</ul>
-					</div>
-				</div>
-				<div class="col-md-3 col-xs-3">
-					<p class=" footer-text">Copyright &copy; 2017.Company name All rights reserved.<a target="_blank" href="http://sc.chinaz.com/moban/">&#x7F51;&#x9875;&#x6A21;&#x677F;</a></p>
-				</div>
-			</div>
-	</div>
-</section>
+
+
 
 <!-- Javascript files -->
 
